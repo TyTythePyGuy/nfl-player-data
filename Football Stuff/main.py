@@ -118,3 +118,5 @@ get_info = Button(text="Show me the info", width=25, command=show_info)
 get_info.grid(row=1, column=1, columnspan=3)
 
 window.mainloop()
+# for _ in hof_of_80s:
+#     print(hof_of_80s.Player)
